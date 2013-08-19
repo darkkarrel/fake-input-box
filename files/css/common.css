@@ -1,0 +1,32 @@
+.wrapper{
+	width: 400px;
+	margin: 0 auto;
+}
+.fcb-wrap,
+.frb-wrap {
+display: inline-block;
+margin-bottom: 5px;
+}
+.fcb-wrap input:checked + label,
+.frb-wrap input:checked + label {
+background-position: 0 -20px;
+}
+.fcb-wrap label,
+.frb-wrap label {
+margin-bottom: 0;
+padding-left: 22px;
+height: 20px;
+display: inline-block;
+line-height: 20px;
+background-repeat: no-repeat;
+background-position: 0 0;
+font-size: 15px;
+vertical-align: middle;
+cursor: pointer;
+}
+.fcb-wrap label {
+background-image: url('../img/web-two-style.png');
+}
+.frb-wrap label {
+background-image: url('../img/fake-radio.png');
+} 
