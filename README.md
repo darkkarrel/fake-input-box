@@ -1,4 +1,4 @@
 fake-input-box
 ==============
 
-Style your check box and radio box with tabindex test
+Style your check box and radio box with tabindex test linechart
